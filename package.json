@@ -1,0 +1,10 @@
+{
+  "name": "reittiopasproxy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.5.3"
+  }
+}
